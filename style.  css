@@ -1,0 +1,49 @@
+body {
+    font-family: Arial;
+    margin: 0;
+    background-color: #fff5f0;
+}
+
+/* Header */
+header {
+    background: #ffb4a2;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Sections */
+section {
+    background: white;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/* Headings */
+h2 {
+    color: #ff7f7f;
+}
+
+/* Projects */
+.project {
+    margin-bottom: 15px;
+}
+
+/* Certificates */
+.cert-card {
+    background: #ffe5d9;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 8px;
+}
+
+/* Links */
+a {
+    color: #d66a6a;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
